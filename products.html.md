@@ -3,8 +3,6 @@ layout: default
 title: Our products
 ---
 
-# Our products
-
 * 1
 * 2
 * 3
