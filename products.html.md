@@ -1,6 +1,6 @@
 ---
 layout: default
-title: search results
+title: Our products
 ---
 
 # Our products
