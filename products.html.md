@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Our products
+title: Products
 ---
 
 * 1
